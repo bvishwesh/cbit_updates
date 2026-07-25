@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+frontend/project/node_modules/
+.env
+emails.txt
+last_updates.txt
+.git/
+README.md
